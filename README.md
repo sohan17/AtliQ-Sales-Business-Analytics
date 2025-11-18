@@ -84,3 +84,9 @@ The dashboard structure follows best practices for rapid workflow:
 - Simple sidebar icons for switching between functional views
 - Info & Support pages for onboarding and self-help
 - Consistent top-level KPIs for alignment and transparency
+
+***
+  
+- 🔗 Feel free to explore the '.pbix' file and adapt it to your own customer datasets.
+- Get the interactive report:
+- https://app.powerbi.com/reportEmbed?reportId=90ad03f0-8de2-4484-93ce-4a0c9c7eea40&autoAuth=true&ctid=5caed4d5-4e56-4ec7-b17f-151f4302cd12&actionBarEnabled=true
